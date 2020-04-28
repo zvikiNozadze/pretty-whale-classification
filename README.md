@@ -1,12 +1,13 @@
-## I find whales fascinating creatures, so if someone finds whale and wants to find out what species it is here is the app.
+### I find whales fascinating creatures. If someone sees a whale and wants to find out it's species here is the fun app.
 <br>
 
-### Screenshot from app: 
+#### Model has accuracy of 98% and F1 of 97% on all size of images.
+#### Screenshot from app: 
 <br>
 
 ![Image description](https://github.com/zvikiNozadze/whale-classification/blob/master/imgonline-com-ua-twotoone-zw8XR9SGwgQJf.jpg)
 
-<br><br>
+<br><br><br>
 data url: 
 
 ```
